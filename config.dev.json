@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "abdonjuniork@gmail.com",
-    "password": "junior",
+    "email": "atchammael36@gmail.com",
+    "password": "222011",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,13 +16,13 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100052648010710"],
+  "adminBot": ["100093647727130"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "★JR BOT★",
+  "nickNameBot": "★SASUKE BOT★",
   "prefix": "*",
   "database": {
     "type": "sqlite",
